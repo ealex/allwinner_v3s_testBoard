@@ -328,6 +328,18 @@
     [
       "df5330a8-6204-48d3-99bc-5959fbaf3714",
       "Power"
+    ],
+    [
+      "e869c40d-f734-4b6e-9f2b-087aadc9e065",
+      "sdCard"
+    ],
+    [
+      "917ed5f9-0f36-4586-83e7-138ef7cc08b7",
+      "DebugUART"
+    ],
+    [
+      "d9850472-3000-4e71-8a38-091001877c88",
+      "Ethernet"
     ]
   ],
   "text_variables": {}
