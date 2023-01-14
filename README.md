@@ -9,3 +9,4 @@ The "buildroot" folder contais all the required files and instructions to build 
 
 Please keep in mind that the board is build around my requirements.
 
+
