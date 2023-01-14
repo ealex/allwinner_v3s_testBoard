@@ -8,3 +8,4 @@ SD0 interface is used for boot.
 The "buildroot" folder contais all the required files and instructions to build a bare system.
 
 Please keep in mind that the board is build around my requirements.
+
